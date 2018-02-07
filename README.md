@@ -17,3 +17,9 @@ Other models were made in Blender and/or Microsoft's Paint 3D, or came in the Un
 
 I used several sounds from the Oculus Audio pack/sdk.
 One sound I got from freesound.org (https://freesound.org/people/plasterbrain/sounds/243020/).
+
+
+## Interaction and Movement ##
+Trigger: Players can teleport around the room by holding the trigger and releasing when the line points to where you want to go.
+
+Grip: With the grip button, players can grab objects and interact with things. For example, players can not only pick up the collectible cube, but they can also open doors and cabinets with the grip button. 
